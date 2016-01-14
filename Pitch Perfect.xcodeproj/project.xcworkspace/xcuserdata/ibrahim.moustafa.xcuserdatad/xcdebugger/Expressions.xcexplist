@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RecordSoundsViewController.audioRecorderDidFinishRecording(AVAudioRecorder, successfully : Bool) -&gt; ():RecordSoundsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recorder.recording">
+            </PersistentString>
+            <PersistentString
+               value = "self.pauseState">
+            </PersistentString>
+            <PersistentString
+               value = "pauseState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecordSoundsViewController.btnPauseClick(UIButton) -&gt; ():RecordSoundsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pauseState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
